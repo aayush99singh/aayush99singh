@@ -11,5 +11,3 @@ I also do competitive programming: Codeforces Expert, 800+ LeetCode problems, an
 Outside work, I play badminton, where my reflexes are better than my on-call response time.
 
 Always happy to connect and talk tech, careers, or anything in between : )
-
-[Portfolio](https://aayush99singh.netlify.app) · [LinkedIn](https://www.linkedin.com/in/aayush99singh) · [LeetCode](https://leetcode.com/u/aayush99singh)
