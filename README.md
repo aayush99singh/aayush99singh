@@ -1,9 +1,15 @@
-### Aayush Singh
+Hi, thanks for visiting my profile!
 
-Backend engineer at Zomato, building the systems behind its conversational AI agents: LLM pipelines, agent workflow execution, and real-time call processing. Previously at Aviso AI.
+I'm a backend engineer at Nugget by Zomato, working on the systems behind its conversational AI agents.
 
-Mostly Go and Python, with ClickHouse, Redis, MongoDB, and Kafka.
+Most of my work is making things that work in a demo hold up in production: reliable, fast, and cheap enough to run at scale.
 
-Competitive programmer: Codeforces Expert, 800+ LeetCode problems.
+Before Nugget, I worked remotely with a US team at Aviso AI, building tools for sales teams.
+
+I also do competitive programming: Codeforces Expert, 800+ LeetCode problems, and a 365+ day streak. IIT Ropar, class of 2024.
+
+Outside work, I play badminton, where my reflexes are better than my on-call response time.
+
+Always happy to connect and talk tech, careers, or anything in between : )
 
 [Portfolio](https://aayush99singh.netlify.app) · [LinkedIn](https://www.linkedin.com/in/aayush99singh) · [LeetCode](https://leetcode.com/u/aayush99singh)
